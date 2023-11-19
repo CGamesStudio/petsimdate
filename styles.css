@@ -50,7 +50,7 @@ body {
 
 #play-now {
     display: none;
-    font-size: 1.75em;
+    font-size: 1em;
     animation: pulsate 1s ease-in-out infinite;
     text-shadow: 0 0 10px rgba(0, 208, 15, 0.7);
 }
